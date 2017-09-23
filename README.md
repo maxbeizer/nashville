@@ -2,17 +2,6 @@
 
 [![](https://github-images.s3.amazonaws.com/skitch/Nashville%2C_TN_-_Google_Maps-20140324-173707.gif)](https://goo.gl/maps/c9Wc7)
 
-
-#### Your Hosts
-
-* Rick Bradley ([github](https://github.com/rick) - [twitter](https://twitter.com/rickbradley))
-* James Fryman ([github](https://github.com/jfryman) - [twitter](https://twitter.com/jfryman))
-* Aziz Shamim ([github](https://github.com/azizshamim) - [twitter](https://twitter.com/azizshamim))
-* James White ([github](https://github.com/jameswhite) - [twitter](https://twitter.com/james_s_white))
-
-Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368), is located downtown, and central to many things you'd find yourself wanting to do. Come visit anytime. Here you'll find everything you need to get work done, have a central place to meetup, and interact with some cool new friends.
-
-
 #### Tips
 
  * Grab a free copy of the [Nashville Scene][nashvillescene] for more info on this week's haps and other recommendations that I'm totally forgetting.  Gosh, there's also an [Eash Nashvillian][eastnashvillian] you can grab too.
@@ -28,15 +17,8 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  * lunch at [Monell's][monells], family-style awesome southern food
  * [Jeni's Ice Cream][jenisicecream] (some of the best in the USA)
  * grabbing a beer at the [Springwater Supper Club](http://www.thespringwater.com/), [Santa's Pub](http://santaspub.com/) (dive bars)
- * the [Opryland Hotel][oprylandhotel].  Shit's cray.
+ * the [Opryland Hotel][oprylandhotel].
  * If you're into guitars, definitely check out [Gruhn Guitars][gruhns] down on 8th (2120 8th Ave South -- in the old Nashville Scene building)
-
-#### Places to Stay:  AirBNB
-
- - [4bd bungalow](https://www.airbnb.com/rooms/2687266) - This was a quite awesome stay for the [Puppet 3 Hack House](https://github.com/github/summits/issues/40).  Get on this level.
- - [the tour bus(!)](https://www.airbnb.com/rooms/2410308)
- - [an Apartment in the Cumberland](https://www.airbnb.com/rooms/5846583) - **literally** across the street from the office, you lazy fucker.
- - and tons more.
 
 #### Places to Stay:  Hotels
 
@@ -171,11 +153,6 @@ Our office,[The Bikeshed](https://gist.github.com/jfryman/e8824f09029cd59fd368),
  - [Recovery Room][hangover]: To relieve the negative effects of overindulgence.
 
 
-[rick]: https://team.githubapp.com/rick
-[jfryman]: https://team.githubapp.com/jfryman
-[azizshamim]: https://team.githubapp.com/azizshamim
-[jameswhite]: https://team.githubapp.com/jameswhite
-[nashvilleoffice]: https://githubber.com/article/office/coworking/nashville
 [nashvillescene]: http://www.nashvillescene.com/
 [eastnashvillian]: http://theeastnashvillian.com/
 [busfares]: http://www.nashvillemta.org/Nashville-MTA-bus-fares.asp
