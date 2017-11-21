@@ -136,7 +136,7 @@
 #### Drinking
 
  - The [Patterson House][pattersonhouse] -- speakeasy-style cocktail bar; hard to find (right next to [the catbird seat][catbird]) but definitely satisfies; eat beforehand
- - [The Holland House][hollandhouse] -- East Nashville less-hard-to-find cocktail bar, with decent food
+ - ~~[The Holland House][hollandhouse] -- East Nashville less-hard-to-find cocktail bar, with decent food~~. "*After seven years of good friends & good food in the East Nashville community, Holland House has shut our doors for good.*"
  - [Mickey's Tavern][mickeystavern] -- hole-in-the-wall -ish East Nashville venue
  - ~~[The Stone Fox][stonefox] ([music calendar][stonefoxcal])-- westside drinking and food establishment -- the [March 2014 Drinkup](https://github.com/blog/1798-nashville-training-and-drinkup) venue (ping @rick if you go there -- you can park and/or sleep in his yard)~~. Closed in Feb 2016. 
  - [Betty's][bettys] -- West-side. during the day this is a 70's era truck-driver / burned out West Nashville hag bar; cigarettes hanging off lower lips. At night it's usually punk kids and noise bands. Don't expect craft beers. Has a nice little enclosed outdoor nook; if you need to roll one, pull the plate out from under the back picnic table.
