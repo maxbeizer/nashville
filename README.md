@@ -83,6 +83,7 @@
  - [Etch][etch] -- Deb is the chef.  Go for it.
  - [Husk][husk] -- Skip it. Not that great, evidently.  Very hype. Such tourist.
  - [Butcher & Bee][butcherandbee] -- excellent food on the east side
+ - [Liberty Common][libertycommon] -- Brunch! French/Southern fusion with a cool vibe in the downtown area
 
 #### Coffee / Hacking ( / tea )
 
@@ -270,3 +271,4 @@
 [emma]: (http://myemma.com/)
 [butcherandbee]: (http://butcherandbee.com/)
 [eastnashbeerworks]: (http://www.eastnashbeerworks.com/)
+[libertycommon]: (https://www.liberty-common.com/)
