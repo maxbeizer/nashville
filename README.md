@@ -269,6 +269,6 @@
 [steadfast]: http://steadfast.coffee/
 [hangover]: http://www.recoveryroomnashville.com/hangover/
 [emma]: (http://myemma.com/)
-[butcherandbee]: (http://butcherandbee.com/)
-[eastnashbeerworks]: (http://www.eastnashbeerworks.com/)
-[libertycommon]: (https://www.liberty-common.com/)
+[butcherandbee]: http://butcherandbee.com/
+[eastnashbeerworks]: http://www.eastnashbeerworks.com/
+[libertycommon]: https://www.liberty-common.com/
